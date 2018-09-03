@@ -1,0 +1,10 @@
+{
+  "spec_files": [
+    "C:\\Users\\twisa.tewary\\Desktop\\JSAPITesting\\spec\\test.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": true
+}
